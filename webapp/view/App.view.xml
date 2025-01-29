@@ -1,5 +1,5 @@
 <mvc:View xmlns:mvc="sap.ui.core.mvc" xmlns="sap.m">
     
-    <Text text="Hello World - XML View"/>
+    <Text text="Hello World - XML View" width="100%" textAlign="Center"/>
 
 </mvc:View>
